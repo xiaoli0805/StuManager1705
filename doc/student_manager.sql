@@ -1,0 +1,2 @@
+CREATE DATABASE student_manager DEFAULT CHARACTER SET utf8;
+
